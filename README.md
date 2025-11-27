@@ -7,6 +7,12 @@ Blender3D addon that automates the process of creating object blink animations.
 Created for use in technical animation.
 
 ___
+- Blinking transparency
+- Custom blink color selection
+- Adjust blink duration and count
+- Quick application of fade effects with customizable settings
+- Automatic insertion of markers for easy step separation
+- Saving markers to a file to create pauses in the Video Sequencer
 
 <div align="center">
   <img src=".meta/preview_anim_1.gif" width="800"/> <br>
