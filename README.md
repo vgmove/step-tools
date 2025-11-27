@@ -3,7 +3,7 @@
   <img src=".meta/preview_1.png" width="800"/> <br>
 </div>
 
-Blender3D addon that automates the process of creating object blink animations.
+Blender3D addon that automates the process of creating object blink animations. <br>
 Created for use in technical animation.
 
 ## Features
@@ -19,7 +19,7 @@ Created for use in technical animation.
 </div>
 
 ## How it works
-The addon creates several "Custom Properties" and a shader node group with attributes for the selected objects.
+The addon creates several "Custom Properties" and a shader node group with attributes for the selected objects. <br>
 The group is created before the "Material Output" node and does not affect existing shader settings.
 <div align="center">
   <img src=".meta/preview_2.png" height="120"/>  <img src=".meta/preview_3.png" height="120"/>
@@ -27,7 +27,7 @@ The group is created before the "Material Output" node and does not affect exist
 
 <br>
 
-Keyframes are set on the object's "Custom Properties".
+Keyframes are set on the object's "Custom Properties". <br>
 This improves performance when working with a large number of materials.
 <div align="center">
   <img src=".meta/preview_anim_2.gif" width="800"/> <br>
