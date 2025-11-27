@@ -144,7 +144,7 @@ class StepTools_properties(PropertyGroup):
 	single_user_material: BoolProperty(
 		name="Material",
 		description="Make single user for materials",
-		default = True
+		default = False
 	)
 	single_user_data: BoolProperty(
 		name="Data",
