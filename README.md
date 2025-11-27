@@ -6,7 +6,7 @@
 Blender3D addon that automates the process of creating object blink animations.
 Created for use in technical animation.
 
-___
+## Features
 - Blinking transparency
 - Custom blink color selection
 - Adjust blink duration and count
@@ -18,7 +18,7 @@ ___
   <img src=".meta/preview_anim_1.gif" width="800"/> <br>
 </div>
 
-___
+## How it works
 The addon creates several "Custom Properties" and a shader node group with attributes for the selected objects.
 The group is created before the "Material Output" node and does not affect existing shader settings.
 <div align="center">
@@ -33,8 +33,8 @@ This improves performance when working with a large number of materials.
   <img src=".meta/preview_anim_2.gif" width="800"/> <br>
 </div>
 
-# Installation
+## Installation
 Download the .zip file and follow the [official instructions](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html) for installing addons (Install from Disk).
 
-# Download
+## Download
 Link for download [last release](https://github.com/vgmove/step-tools/releases/download/release_v1.0.0/step_tools.zip). 
